@@ -1,0 +1,315 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#three{
+	background-color: black;
+	padding: 0;
+	margin: 0;
+	height: 9000px;
+	width: 1425px;
+}
+
+
+#four{
+	background-color: black;
+	padding: 0;
+	margin: 0;
+	height: 1500px;
+	
+}
+
+h1{
+	text-align: center; 
+	color: floralwhite;	
+	font-weight: bolder;
+	font-family:'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	font-size: 100px;
+	transition: color 1s;
+}
+
+h1:hover{
+	color:crimson;
+}
+
+h3{
+	text-align: center;
+	font-weight: bolder;
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	font-size: 90px;	
+	color: aliceblue;
+	position:absolute;
+	top: 3000px;
+	margin-left: 20%;
+	margin-right:20%;
+}
+
+#one{
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	color: aliceblue;
+	position: absolute;
+	top: 10900px;
+	margin-left: 70%;
+	
+}
+
+#eleven{
+	font-size: 30px;
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	color: aliceblue;
+	position: absolute;
+	top: 9900px;
+	margin-left: 70%;
+}
+
+#twelve{
+	font-size: 30px;
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	color: aliceblue;
+	position: absolute;
+	top: 7200px;
+	margin-left: 20%;
+}
+
+#thirteen{
+	font-size: 30px;
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	color: aliceblue;
+	position: absolute;
+	top: 5900px;
+	margin-left: 70%;
+}
+
+
+.paragraph{
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	text-align: center;
+	color: aliceblue;
+	position: relative;
+	font-size: 40px;
+
+}
+
+.visable{
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	color: black;
+	text-align: center;
+	position: relative;
+	font-size: 40px;
+	transition:color 1s;
+	transition-duration: 2s;
+	
+}
+.visable:hover {
+	color: grey
+} 
+
+.visable2{
+	font-family: 'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	color: black;
+	position: absolute;
+	font-size: 40px;
+	margin-left: 0%;
+	margin-right: 0%;
+	transition:color 1s;
+	transition-duration: 2s;
+	
+}
+.visable:hover {
+	color: grey
+} 
+
+
+.rotation{
+	transform:rotate 1s;
+}
+
+.rotation:hover {
+	transform:rotate(180deg);
+}
+
+
+.topcenter {
+	position: absolute;
+	top: 50%;
+	left: 46%;
+
+}
+
+.position {
+	position: absolute;
+	margin-bottom: 0px;
+	margin-top: 2000px;
+	margin-right: 0px;
+	
+}
+
+.gradient{
+	width:"1430px";
+	height: "2000px";
+	background-color: black;
+	background: -moz-linear-gradient(top,#000000, #FFFFFF);
+	background: -webkit-gradient(linear, left top, left bottom, from(#000000)0%, to(#FFFFFF)100%)
+}
+
+.roundborder{
+border: 2px solid red;
+  border-radius: 12px;
+  padding: 5px;
+	width: 160px;
+	margin-bottom: 300px;
+margin-left: 20%;
+}
+
+#two{
+position: absolute;
+margin-top: 1400px;
+margin-left: 20%;
+color:mistyrose;
+font-size: 40px;
+	
+}
+
+#five{
+position: absolute;
+margin-top: 1400px;
+margin-left: 70%;
+color:mistyrose;
+font-size: 40px;
+}
+
+#six{
+	background-color: crimson;
+	padding: 0;
+	margin: 0;
+	height: 800px;
+}
+
+.marginleft{
+	margin-left: 34%;
+	margin-top: 9%;
+}
+
+#seven{
+	background-color: black;
+	padding: 0;
+	margin: 0;
+	height: 1000px;
+}
+
+.roundborder2{
+border: 2px solid red;
+  border-radius: 12px;
+  padding: 5px;
+	width: 526px;
+	margin-bottom: 0px;
+margin-left: 5%;
+}
+
+#eight{
+position: absolute;
+margin-top: 900px;
+margin-left: 10%;
+color:mistyrose;
+font-size: 40px;
+}
+
+#nine{
+position: absolute;
+margin-top: 550px;
+margin-left: 55%;
+color:mistyrose;
+font-size: 40px;
+}
+
+#ten{
+	background-color: crimson;
+	padding: 0;
+	margin: 0;
+	height: 1000px;
+	width: 600px;
+
+}
+
+h2{
+	position: absolute;
+	text-align: center;
+	color: floralwhite;	
+	font-weight: bolder;
+	font-family:'loved-by-the-king',"just-another-hand","Andale Mono", "Lucida Console", "Lucida Sans Typewriter","Courier New", "monospace";
+	font-size: 100px;
+	transition: color 1s;
+	margin-right: 500%;
+	
+}
+
+h2:hover{
+	color:crimson;
+}
+
+.eye1{
+	position: absolute;
+	margin-top: 50%;
+	margin-left: 40%;
+}
+
+.eye2{
+	position: absolute;
+	margin-top: 20%;
+	margin-left: 10%;
+}
+
+.eye3{
+	position: absolute;
+	margin-top: 70%;
+	margin-left: 60%;
+}
+
+.eye4{
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 70%;
+}
+
+.eye5{
+	position:absolute;
+	margin-top: 5%;
+	margin-left: 50;
+}
+
+.eye6{
+	position:absolute;
+	margin-top: 15%;
+	margin-left: 27%;
+}
+
+.eye7{
+	position:absolute;
+	margin-top: 47%;
+	margin-leaft: 20%;
+}
+
+.eye8{
+	position: absolute;
+	margin-top: 68%;
+	margin-left:18%;
+}
+
+.eye9{
+	position: absolute;
+	margin-top: 46%;
+	margin-left:80%;
+}
+
+.eye10{
+	position: absolute;
+	margin-top: 3%;
+	margin-left: 60%;
+}
+
+.eye11{
+	position: absolute;
+	margin-top: 80%;
+	margin-left: 55%;
+}
+
+
